@@ -1,0 +1,38 @@
+@charset "UTF-8";
+
+@import url('https://fonts.googleapis.com/css?family=Gugi');
+
+body{
+	position: absolute;
+}
+
+.logotipo{
+	height: 50px;
+	width: 50px;
+
+}
+
+#social{
+	display: block;
+	text-align: center;
+	padding: 10px;
+	background-color: #d3d3d3;
+	position: fixed;
+    bottom: 0;
+    width: 100%;
+}
+
+#social h2{
+	font-size: 15pt;
+	font-family: 'Gugi', cursive;
+}
+
+#social a{
+	color: #696969;
+	padding: 5px;
+}
+
+#social a:hover{
+	color: #000000;
+	transition: 1s;
+}
