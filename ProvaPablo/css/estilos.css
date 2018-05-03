@@ -1,0 +1,36 @@
+@charset "UTF-8";
+
+body {
+	background-color: #FFFAFA;
+}
+
+.logotipo{
+	height: 50px;
+	width: 50px;
+
+}
+
+#produto {
+	padding: 30px 0;
+}
+
+#sobre {
+	padding: 30px 0;
+}
+
+#maps {
+	padding: 30px 0;
+}
+
+#contato {
+	padding: 30px 0;
+}
+
+.enviar {
+	margin-left: 120px
+}
+
+.quadrado {
+	margin-left: 120px;
+	margin-bottom: 20px;
+}
